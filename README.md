@@ -1,6 +1,6 @@
 # Java Linked Set
 
-A generic Set collection implemented using a **doubly-linked list** as the underlying data structure. Built as part of a Data Structures & Algorithms course at Auburn University.
+A generic Set collection implemented using a **doubly-linked list** as the underlying data structure.
 
 ---
 
